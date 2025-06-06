@@ -28,6 +28,7 @@ the question
 The data is in a structured format (Tabular form) but was not clean. The data was cleaned by removing duplicates, filtering the blank spaces and correcting obviously wrong data input. The data was primarily cleaned in Microsoft excel. The tool used in visualizing the data is Microsoft excel while the dashboard was created using Microsoft Power Bi. 
 
 ## **Key Insight**
+![alt text](<Coffee sales analysis.jpg>)
  The first table on the dashboard shows that the highest sales were achieved in 
 May ($9,063.42), while the lowest sales were recorded in April ($6,720.56) 
 
